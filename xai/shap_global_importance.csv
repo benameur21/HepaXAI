@@ -1,0 +1,11 @@
+Feature,Mean_SHAP
+A_G_Ratio_Albumin_and_Globulin_Ratio,0.0982661990024611
+Total_Protiens,0.09007558891631191
+ALB_Albumin,0.08640941124061335
+Alkphos_Alkaline_Phosphotase,0.07138276572230298
+Direct_Bilirubin,0.06856895706751849
+Sgpt_Alamine_Aminotransferase,0.06606438330034288
+Sgot_Aspartate_Aminotransferase,0.0626527085604332
+Total_Bilirubin,0.0407877953130565
+Gender_of_the_patient,0.03289139208749776
+Age_of_the_patient,0.01950427789711092

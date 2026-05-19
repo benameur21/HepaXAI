@@ -1,0 +1,11 @@
+Feature_Condition,Weight
+Sgpt_Alamine_Aminotransferase > -0.09,0.23013223445548542
+Sgot_Aspartate_Aminotransferase > -0.08,0.16643716010494142
+Alkphos_Alkaline_Phosphotase > 0.06,0.14699167988911332
+Total_Protiens > 0.66,-0.07986001878404526
+ALB_Albumin > 0.78,-0.07552854928884262
+-0.33 < Total_Bilirubin <= -0.14,-0.04581664624002472
+0.11 < A_G_Ratio_Albumin_and_Globulin_Ratio <= 0.43,-0.028463020182070187
+-0.36 < Direct_Bilirubin <= -0.15,-0.02280746316888003
+Gender_of_the_patient <= -0.65,0.02260825227423682
+Age_of_the_patient > 0.69,0.01284827394035589

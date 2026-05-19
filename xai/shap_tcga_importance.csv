@@ -1,0 +1,10 @@
+Feature,Mean_SHAP
+age_at_index,0.14070874018111992
+age_at_diagnosis,0.1275258617873572
+gender,0.0712828343509962
+progression_or_recurrence,0.04956749157478478
+is_tumor_tissue,0.03260675486633137
+is_tumor,0.02993688879190255
+is_primary_tumor,0.019694955061761183
+days_to_progression,0.0
+days_to_progression_free,0.0
